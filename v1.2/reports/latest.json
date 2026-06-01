@@ -1,0 +1,193 @@
+{
+  "results": [],
+  "errors": [
+    {
+      "symbol": "GOOG",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "RKLB",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "AGRO",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "BABA",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "CRCL",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "INTC",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "MU",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "SNDK",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "AAOI",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "LITE",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "ASML",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "APP",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "FIG",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "TEM",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "DUOL",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "SAP",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "PDD",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "JD",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "LI",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "XPEV",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "NIO",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "MBGYY",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "COIN",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "BMNR",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "BTCS",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "SBET",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "ARBK",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "AIFC",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "VCX",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "ORBS",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "WINT",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "SUIG",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "CCJ",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "LEU",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "CEG",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "VST",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "OKLO",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "NATKY",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "LNG",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "FLNC",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "RACE",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "VWAGY",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "ESLOY",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "NNOMF",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "SNDQ",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "AAOX",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "symbol": "NDX",
+      "error": "futu: futu-api is not installed; run `python3 -m pip install futu-api` first; nasdaq: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}
