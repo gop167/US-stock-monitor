@@ -1,0 +1,4 @@
+# v1.2
+
+Version 1.2 snapshot placeholder.
+
