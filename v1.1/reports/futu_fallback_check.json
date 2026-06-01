@@ -1,0 +1,9 @@
+{
+  "results": [],
+  "errors": [
+    {
+      "symbol": "SNDQ",
+      "error": "nasdaq: only 12 usable daily bars"
+    }
+  ]
+}

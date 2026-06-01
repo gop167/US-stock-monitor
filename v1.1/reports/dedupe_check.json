@@ -1,0 +1,334 @@
+{
+  "results": [
+    {
+      "symbol": "AGRO",
+      "source_symbol": "AGRO",
+      "name": "Adecoagro",
+      "assetclass": "stocks",
+      "context_only": false,
+      "themes": [
+        "agriculture",
+        "energy",
+        "value"
+      ],
+      "role": "cyclical",
+      "risk": "medium",
+      "narrative_score": 3.0,
+      "quality_score": 4.0,
+      "latest_date": "2026-05-08",
+      "close": 13.13,
+      "weekly_low": 12.92,
+      "weekly_high": 15.25,
+      "atr_pct": 0.13126863235774128,
+      "buffer_pct": 0.045944021325209444,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [
+        {
+          "kind": "cross_upper_add",
+          "support": 13.102,
+          "distance": 0.0021370783086552027,
+          "spread": 0.2513356739429097,
+          "crosses": [
+            [
+              30,
+              60,
+              1
+            ]
+          ],
+          "reason": "recent bullish MA cross; price is near the upper MA support band"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 5,
+          "support": 13.331999999999999,
+          "distance": -0.015151515151515017,
+          "reason": "price is -1.5% from MA5"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 10,
+          "support": 13.102,
+          "distance": 0.0021370783086552027,
+          "reason": "price is 0.2% from MA10"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 5,
+          "value": 13.331999999999999,
+          "distance": -0.015151515151515017,
+          "alert_price": 13.94452569230769,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 10,
+          "value": 13.102,
+          "distance": 0.0021370783086552027,
+          "alert_price": 13.703958567402893,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 20,
+          "value": 10.8195,
+          "distance": 0.2135496095013634,
+          "alert_price": 11.316591338728102,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 9.808999999999997,
+          "distance": 0.33856662248955083,
+          "alert_price": 10.259664905178976,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 9.536000000000003,
+          "distance": 0.37688758389261706,
+          "alert_price": 9.9741221873572,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 10,
+        "value": 13.102,
+        "distance": 0.0021370783086552027,
+        "alert_price": 13.703958567402893,
+        "touched": true,
+        "near_close": true
+      },
+      "recent_crosses": [
+        [
+          30,
+          60,
+          1
+        ]
+      ],
+      "extended": true,
+      "composite": 3.95,
+      "grade": "B+",
+      "notes": "你圈出的典型交叉上沿加仓模型。",
+      "suppressed": true,
+      "dedupe_reason": "0个交易日内已提醒，未进入更优区间"
+    },
+    {
+      "symbol": "BABA",
+      "source_symbol": "BABA",
+      "name": "Alibaba",
+      "assetclass": "stocks",
+      "context_only": false,
+      "themes": [
+        "China internet",
+        "AI",
+        "cloud"
+      ],
+      "role": "turnaround",
+      "risk": "medium_high",
+      "narrative_score": 4.0,
+      "quality_score": 4.0,
+      "latest_date": "2026-05-08",
+      "close": 140.06,
+      "weekly_low": 132.17,
+      "weekly_high": 143.95,
+      "atr_pct": 0.08597075743048896,
+      "buffer_pct": 0.030089765100671132,
+      "trend": "base_or_mixed",
+      "trend_score": 2.3,
+      "signals": [
+        {
+          "kind": "pure_pullback",
+          "ma": 20,
+          "support": 144.64000000000001,
+          "distance": -0.03166482300884964,
+          "reason": "price is -3.2% from MA20"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 60,
+          "support": 138.8883333333333,
+          "distance": 0.008436033744135287,
+          "reason": "price is 0.8% from MA60"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 20,
+          "value": 144.64000000000001,
+          "distance": -0.03166482300884964,
+          "alert_price": 148.99218362416107,
+          "touched": true,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 149.97133333333335,
+          "distance": -0.06608818574216413,
+          "alert_price": 154.4839355251678,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 138.8883333333333,
+          "distance": 0.008436033744135287,
+          "alert_price": 143.067450658557,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 120,
+          "value": 113.16941666666663,
+          "distance": 0.23761351896456162,
+          "alert_price": 116.5746578307466,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 250,
+          "value": 108.11807999999998,
+          "distance": 0.29543550902864746,
+          "alert_price": 111.37132763033554,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 60,
+        "value": 138.8883333333333,
+        "distance": 0.008436033744135287,
+        "alert_price": 143.067450658557,
+        "touched": true,
+        "near_close": true
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          1
+        ]
+      ],
+      "extended": false,
+      "composite": 3.19,
+      "grade": "B",
+      "notes": "基本面质量强但政策/地缘折价；大级别MA60/120更重要。",
+      "suppressed": true,
+      "dedupe_reason": "0个交易日内已提醒，未进入更优区间"
+    },
+    {
+      "symbol": "CCJ",
+      "source_symbol": "CCJ",
+      "name": "Cameco",
+      "assetclass": "stocks",
+      "context_only": false,
+      "themes": [
+        "uranium",
+        "nuclear",
+        "energy security"
+      ],
+      "role": "cyclical",
+      "risk": "medium",
+      "narrative_score": 5.0,
+      "quality_score": 4.0,
+      "latest_date": "2026-05-08",
+      "close": 116.75,
+      "weekly_low": 113.3,
+      "weekly_high": 124.7199,
+      "atr_pct": 0.11634126644233708,
+      "buffer_pct": 0.04071944325481797,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [
+        {
+          "kind": "cross_upper_add",
+          "support": 113.18400000000001,
+          "distance": 0.03150621996041833,
+          "spread": 0.07065780793516159,
+          "crosses": [
+            [
+              5,
+              10,
+              2
+            ]
+          ],
+          "reason": "recent bullish MA cross; price is near the upper MA support band"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 10,
+          "support": 113.18400000000001,
+          "distance": 0.03150621996041833,
+          "reason": "price is 3.2% from MA10"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 20,
+          "support": 113.04750000000001,
+          "distance": 0.03275171940998241,
+          "reason": "price is 3.3% from MA20"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 10,
+          "value": 113.18400000000001,
+          "distance": 0.03150621996041833,
+          "alert_price": 117.79278946535332,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 20,
+          "value": 113.04750000000001,
+          "distance": 0.03275171940998241,
+          "alert_price": 117.65073126134904,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 30,
+          "value": 105.18666666666668,
+          "distance": 0.10993155025985533,
+          "alert_price": 109.46980917116346,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 85.32616666666668,
+          "distance": 0.3682789765546714,
+          "alert_price": 88.80060066840115,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 10,
+        "value": 113.18400000000001,
+        "distance": 0.03150621996041833,
+        "alert_price": 117.79278946535332,
+        "touched": true,
+        "near_close": true
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          2
+        ]
+      ],
+      "extended": false,
+      "composite": 4.55,
+      "grade": "A",
+      "notes": "核电/铀核心票，趋势回踩优先级高。",
+      "suppressed": true,
+      "dedupe_reason": "0个交易日内已提醒，未进入更优区间"
+    }
+  ],
+  "errors": []
+}

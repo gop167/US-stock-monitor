@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "symbol": "SNDQ",
+      "source_symbol": "SNDQ",
+      "name": "2x Short SNDK ETF",
+      "assetclass": "etf",
+      "data_provider": "futu",
+      "history_daily_bars": 12,
+      "data_warning": "short_history:12 daily bars",
+      "futu_code": "US.SNDQ",
+      "context_only": true,
+      "themes": [
+        "inverse ETF",
+        "hedge",
+        "semiconductor"
+      ],
+      "role": "hedge",
+      "risk": "hedge",
+      "narrative_score": 1.0,
+      "quality_score": 1.0,
+      "latest_date": "2026-05-08",
+      "close": 7.67,
+      "weekly_low": 7.65,
+      "weekly_high": 15.11,
+      "atr_pct": 0.9039504563233377,
+      "buffer_pct": 0.06,
+      "trend": "weak",
+      "trend_score": 2.0,
+      "signals": [],
+      "levels": [],
+      "next_level": null,
+      "recent_crosses": [],
+      "extended": false,
+      "composite": 0.75,
+      "grade": "CONTEXT",
+      "notes": "反向杠杆ETF，不参与基本面排序，只作为风险提示。"
+    }
+  ],
+  "errors": []
+}
