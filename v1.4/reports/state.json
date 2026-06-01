@@ -1,0 +1,492 @@
+{
+  "alerts": {
+    "AGRO:CROSS_RETEST_ADD": {
+      "close": 13.46,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-18",
+      "proximity": 0.008577443838005605,
+      "signal": "交叉后上沿加仓区 / MA30>60(4w)",
+      "symbol": "AGRO"
+    },
+    "AGRO:PURE_PULLBACK:MA5": {
+      "close": 12.81,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-22",
+      "proximity": 0.022096069551451596,
+      "signal": "单纯回踩 MA5",
+      "symbol": "AGRO"
+    },
+    "AIFC:PURE_PULLBACK:MA5": {
+      "close": 0.8932,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-22",
+      "proximity": 0.007643764998666782,
+      "signal": "单纯回踩 MA5",
+      "symbol": "AIFC"
+    },
+    "APP:CROSS_RETEST_ADD": {
+      "close": 514.24,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-26",
+      "proximity": 0.0041654482746600035,
+      "signal": "交叉后上沿加仓区 / MA5>10(3w)",
+      "symbol": "APP"
+    },
+    "APP:PURE_PULLBACK:MA10": {
+      "close": 482.28,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-20",
+      "proximity": 0.0865441371945587,
+      "signal": "单纯回踩 MA10",
+      "symbol": "APP"
+    },
+    "APP:PURE_PULLBACK:MA20": {
+      "close": 492.38,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-18",
+      "proximity": 0.06181713101488107,
+      "signal": "单纯回踩 MA20",
+      "symbol": "APP"
+    },
+    "ARBK:PURE_PULLBACK:MA5": {
+      "close": 3.8,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-20",
+      "proximity": 0.026688497306293503,
+      "signal": "单纯回踩 MA5",
+      "symbol": "ARBK"
+    },
+    "ASML:CROSS_RETEST_ADD": {
+      "close": 1472.39,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-18",
+      "proximity": 0.02907786674067597,
+      "signal": "交叉后上沿加仓区 / MA5>10(4w)",
+      "symbol": "ASML"
+    },
+    "BABA:PURE_PULLBACK:MA20": {
+      "close": 140.06,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-08",
+      "proximity": 0.03166482300884964,
+      "signal": "单纯回踩 MA20",
+      "symbol": "BABA"
+    },
+    "BABA:PURE_PULLBACK:MA60": {
+      "close": 134.47,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-20",
+      "proximity": 0.029464822819086314,
+      "signal": "单纯回踩 MA60",
+      "symbol": "BABA"
+    },
+    "BMNR:PURE_PULLBACK:MA10": {
+      "close": 19.87,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-15",
+      "proximity": 0.05204904346166695,
+      "signal": "单纯回踩 MA10",
+      "symbol": "BMNR"
+    },
+    "BMNR:PURE_PULLBACK:MA5": {
+      "close": 19.2,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-26",
+      "proximity": 0.05882352941176468,
+      "signal": "单纯回踩 MA5",
+      "symbol": "BMNR"
+    },
+    "BTCS:PURE_PULLBACK:MA10": {
+      "close": 1.61,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-26",
+      "proximity": 0.0805254140491148,
+      "signal": "单纯回踩 MA10",
+      "symbol": "BTCS"
+    },
+    "BTCS:PURE_PULLBACK:MA5": {
+      "close": 2.05,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-12",
+      "proximity": 0.00391772771792339,
+      "signal": "单纯回踩 MA5",
+      "symbol": "BTCS"
+    },
+    "CCJ:CROSS_RETEST_ADD": {
+      "close": 116.93,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-12",
+      "proximity": 0.02343941462731516,
+      "signal": "交叉后上沿加仓区 / MA5>10(3w)",
+      "symbol": "CCJ"
+    },
+    "CCJ:PURE_PULLBACK:MA10": {
+      "close": 108.17,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-26",
+      "proximity": 0.04537913018921217,
+      "signal": "单纯回踩 MA10",
+      "symbol": "CCJ"
+    },
+    "CCJ:PURE_PULLBACK:MA30": {
+      "close": 105.14,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-18",
+      "proximity": 0.012035731899558437,
+      "signal": "单纯回踩 MA30",
+      "symbol": "CCJ"
+    },
+    "CEG:PURE_PULLBACK:MA20": {
+      "close": 294.07,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-22",
+      "proximity": 0.007971988517094745,
+      "signal": "单纯回踩 MA20",
+      "symbol": "CEG"
+    },
+    "COIN:CROSS_RETEST_ADD": {
+      "close": 216.6,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-11",
+      "proximity": 0.03539268632300273,
+      "signal": "交叉后上沿加仓区 / MA5>10(2w)",
+      "symbol": "COIN"
+    },
+    "COIN:PURE_PULLBACK:MA10": {
+      "close": 180.01,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-26",
+      "proximity": 0.03188680158546636,
+      "signal": "单纯回踩 MA10",
+      "symbol": "COIN"
+    },
+    "CRCL:CROSS_RETEST_ADD": {
+      "close": 104.17,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-26",
+      "proximity": 0.019086471203983678,
+      "signal": "交叉后上沿加仓区 / MA5>10(2w), MA20>30(1w)",
+      "symbol": "CRCL"
+    },
+    "CRCL:PURE_PULLBACK:MA5": {
+      "close": 123.65,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-12",
+      "proximity": 0.1394423045024789,
+      "signal": "单纯回踩 MA5",
+      "symbol": "CRCL"
+    },
+    "DUOL:PURE_PULLBACK:MA20": {
+      "close": 106.48,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-26",
+      "proximity": 0.03844026486238745,
+      "signal": "单纯回踩 MA20",
+      "symbol": "DUOL"
+    },
+    "FIG:PURE_PULLBACK:MA5": {
+      "close": 21.96,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-26",
+      "proximity": 0.026264136835218128,
+      "signal": "单纯回踩 MA5",
+      "symbol": "FIG"
+    },
+    "FLNC:CROSS_RETEST_ADD": {
+      "close": 18.94,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-20",
+      "proximity": 0.007588923141412339,
+      "signal": "交叉后上沿加仓区 / MA5>10(2w)",
+      "symbol": "FLNC"
+    },
+    "INTC:PURE_PULLBACK:MA5": {
+      "close": 123.52,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-26",
+      "proximity": 0.07097646834411368,
+      "signal": "单纯回踩 MA5",
+      "symbol": "INTC"
+    },
+    "JD:CROSS_RETEST_ADD": {
+      "close": 29.99,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-26",
+      "proximity": 0.00434571920563554,
+      "signal": "交叉后上沿加仓区 / MA5>10(8w), MA10>20(4w)",
+      "symbol": "JD"
+    },
+    "JD:PURE_PULLBACK:MA120": {
+      "close": 31.6,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-18",
+      "proximity": 0.037179789141407564,
+      "signal": "单纯回踩 MA120",
+      "symbol": "JD"
+    },
+    "LEU:PURE_PULLBACK:MA10": {
+      "close": 183.36,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-26",
+      "proximity": 0.04593418943950716,
+      "signal": "单纯回踩 MA10",
+      "symbol": "LEU"
+    },
+    "LI:CROSS_RETEST_ADD": {
+      "close": 18.51,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-15",
+      "proximity": 0.024671082981197297,
+      "signal": "交叉后上沿加仓区 / MA5>10(4w), MA10>20(6w)",
+      "symbol": "LI"
+    },
+    "LITE:PURE_PULLBACK:MA10": {
+      "close": 868.07,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-20",
+      "proximity": 0.009211216222343258,
+      "signal": "单纯回踩 MA10",
+      "symbol": "LITE"
+    },
+    "LNG:PURE_PULLBACK:MA20": {
+      "close": 243.66,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-20",
+      "proximity": 0.006994306877981253,
+      "signal": "单纯回踩 MA20",
+      "symbol": "LNG"
+    },
+    "NATKY:CROSS_RETEST_ADD": {
+      "close": 80.0,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-08",
+      "proximity": 0.014511320801202435,
+      "signal": "交叉后上沿加仓区 / MA5>10(3w)",
+      "symbol": "NATKY"
+    },
+    "NATKY:PURE_PULLBACK:MA20": {
+      "close": 75.0,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-12",
+      "proximity": 0.026362848602668205,
+      "signal": "单纯回踩 MA20",
+      "symbol": "NATKY"
+    },
+    "NATKY:PURE_PULLBACK:MA30": {
+      "close": 70.0,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-18",
+      "proximity": 0.0019438332010513818,
+      "signal": "单纯回踩 MA30",
+      "symbol": "NATKY"
+    },
+    "NIO:CROSS_RETEST_ADD": {
+      "close": 6.1,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-15",
+      "proximity": 0.011608623548922104,
+      "signal": "交叉后上沿加仓区 / MA10>20(6w)",
+      "symbol": "NIO"
+    },
+    "NIO:PURE_PULLBACK:MA20": {
+      "close": 5.59,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-20",
+      "proximity": 0.022966419617531455,
+      "signal": "单纯回踩 MA20",
+      "symbol": "NIO"
+    },
+    "NNOMF:PURE_PULLBACK:MA10": {
+      "close": 0.7027,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-15",
+      "proximity": 0.049604923150457926,
+      "signal": "单纯回踩 MA10",
+      "symbol": "NNOMF"
+    },
+    "OKLO:CROSS_RETEST_ADD": {
+      "close": 78.13,
+      "grade": "B",
+      "grade_rank": 3,
+      "latest_date": "2026-05-11",
+      "proximity": 0.022462631789670517,
+      "signal": "交叉后上沿加仓区 / MA5>10(2w)",
+      "symbol": "OKLO"
+    },
+    "OKLO:PURE_PULLBACK:MA10": {
+      "close": 65.88,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-22",
+      "proximity": 0.07747411805112608,
+      "signal": "单纯回踩 MA10",
+      "symbol": "OKLO"
+    },
+    "OKLO:PURE_PULLBACK:MA20": {
+      "close": 68.7,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-26",
+      "proximity": 0.038925687324199224,
+      "signal": "单纯回踩 MA20",
+      "symbol": "OKLO"
+    },
+    "ORBS:PURE_PULLBACK:MA10": {
+      "close": 1.03,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-26",
+      "proximity": 0.11712454311775378,
+      "signal": "单纯回踩 MA10",
+      "symbol": "ORBS"
+    },
+    "ORBS:PURE_PULLBACK:MA5": {
+      "close": 0.9001,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-20",
+      "proximity": 0.04248222186189809,
+      "signal": "单纯回踩 MA5",
+      "symbol": "ORBS"
+    },
+    "RACE:PURE_PULLBACK:MA20": {
+      "close": 341.81,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-20",
+      "proximity": 0.004589068696107533,
+      "signal": "单纯回踩 MA20",
+      "symbol": "RACE"
+    },
+    "SBET:PURE_PULLBACK:MA10": {
+      "close": 6.72,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-15",
+      "proximity": 0.04586113871929593,
+      "signal": "单纯回踩 MA10",
+      "symbol": "SBET"
+    },
+    "SBET:PURE_PULLBACK:MA5": {
+      "close": 7.44,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-08",
+      "proximity": 0.017783857729138274,
+      "signal": "单纯回踩 MA5",
+      "symbol": "SBET"
+    },
+    "SUIG:CROSS_RETEST_ADD": {
+      "close": 1.62,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-20",
+      "proximity": 0.031100478468899417,
+      "signal": "交叉后上沿加仓区 / MA5>10(4w)",
+      "symbol": "SUIG"
+    },
+    "SUIG:PURE_PULLBACK:MA5": {
+      "close": 1.57,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-18",
+      "proximity": 0.0038071065989847747,
+      "signal": "单纯回踩 MA5",
+      "symbol": "SUIG"
+    },
+    "TEM:PURE_PULLBACK:MA10": {
+      "close": 46.66,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-26",
+      "proximity": 0.03309364444536561,
+      "signal": "单纯回踩 MA10",
+      "symbol": "TEM"
+    },
+    "VST:CROSS_RETEST_ADD": {
+      "close": 164.56,
+      "grade": "A",
+      "grade_rank": 5,
+      "latest_date": "2026-05-26",
+      "proximity": 0.014023447384684355,
+      "signal": "交叉后上沿加仓区 / MA5>10(3w)",
+      "symbol": "VST"
+    },
+    "VST:PURE_PULLBACK:MA20": {
+      "close": 156.27,
+      "grade": "B+",
+      "grade_rank": 4,
+      "latest_date": "2026-05-22",
+      "proximity": 0.013263849693436263,
+      "signal": "单纯回踩 MA20",
+      "symbol": "VST"
+    },
+    "WINT:PURE_PULLBACK:MA10": {
+      "close": 0.017,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-15",
+      "proximity": 0.07052896725440826,
+      "signal": "单纯回踩 MA10",
+      "symbol": "WINT"
+    },
+    "WINT:PURE_PULLBACK:MA5": {
+      "close": 0.0182,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-18",
+      "proximity": 0.10344827586206902,
+      "signal": "单纯回踩 MA5",
+      "symbol": "WINT"
+    },
+    "XPEV:PURE_PULLBACK:MA10": {
+      "close": 16.55,
+      "grade": "C",
+      "grade_rank": 2,
+      "latest_date": "2026-05-26",
+      "proximity": 0.003132152752680376,
+      "signal": "单纯回踩 MA10",
+      "symbol": "XPEV"
+    }
+  },
+  "last_checked_at": "2026-05-29T08:28:25",
+  "last_market_date": "2026-05-26"
+}

@@ -1,0 +1,291 @@
+{
+  "results": [
+    {
+      "symbol": "NATKY",
+      "source_symbol": "NATKY",
+      "name": "Kazatomprom ADR",
+      "assetclass": "stocks",
+      "data_provider": "nasdaq",
+      "history_daily_bars": 1736,
+      "data_warning": "fallback_after:futu: Futu returned no data for US.NATKY: US OTC market quote is not available for NATKY.",
+      "futu_code": "US.NATKY",
+      "context_only": false,
+      "themes": [
+        "uranium",
+        "Kazakhstan",
+        "nuclear"
+      ],
+      "role": "cyclical",
+      "risk": "medium_high",
+      "narrative_score": 5.0,
+      "quality_score": 4.0,
+      "latest_date": "2026-05-08",
+      "close": 80.0,
+      "weekly_low": 80.0,
+      "weekly_high": 90.35,
+      "atr_pct": 0.06265535714285714,
+      "buffer_pct": 0.025,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [
+        {
+          "kind": "cross_upper_add",
+          "support": 81.17800000000001,
+          "distance": -0.014511320801202435,
+          "spread": 0.14995852735141718,
+          "crosses": [
+            [
+              5,
+              10,
+              3
+            ]
+          ],
+          "reason": "recent bullish MA cross; price is near the upper MA support band"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 20,
+          "value": 75.83075,
+          "distance": 0.0549809938580326,
+          "alert_price": 77.72651874999998,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 69.00466666666667,
+          "distance": 0.15934188025930615,
+          "alert_price": 70.72978333333333,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 55.241716666666655,
+          "distance": 0.4481809188285547,
+          "alert_price": 56.62275958333331,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 20,
+        "value": 75.83075,
+        "distance": 0.0549809938580326,
+        "alert_price": 77.72651874999998,
+        "touched": false,
+        "near_close": false
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          3
+        ]
+      ],
+      "extended": false,
+      "composite": 4.3,
+      "grade": "A",
+      "notes": "铀矿龙头ADR，流动性/地缘风险需降权。"
+    },
+    {
+      "symbol": "NNOMF",
+      "source_symbol": "NNOMF",
+      "name": "Nano One Materials",
+      "assetclass": "stocks",
+      "data_provider": "nasdaq",
+      "history_daily_bars": 1777,
+      "data_warning": "fallback_after:futu: Futu returned no data for US.NNOMF: Unknown stock. NNOMF",
+      "futu_code": "US.NNOMF",
+      "context_only": false,
+      "themes": [
+        "battery materials",
+        "Canada"
+      ],
+      "role": "speculative",
+      "risk": "high",
+      "narrative_score": 3.0,
+      "quality_score": 2.0,
+      "latest_date": "2026-05-08",
+      "close": 0.6931,
+      "weekly_low": 0.6844,
+      "weekly_high": 0.7452,
+      "atr_pct": 0.12432755528989838,
+      "buffer_pct": 0.04351464435146443,
+      "trend": "weak",
+      "trend_score": 1.7999999999999998,
+      "signals": [
+        {
+          "kind": "pure_pullback",
+          "ma": 10,
+          "support": 0.66322,
+          "distance": 0.04505292361509004,
+          "reason": "price is 4.5% from MA10"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 20,
+          "support": 0.7028099999999998,
+          "distance": -0.013815967331141812,
+          "reason": "price is -1.4% from MA20"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 60,
+          "support": 0.7204116666666663,
+          "distance": -0.03791119429400269,
+          "reason": "price is -3.8% from MA60"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 10,
+          "value": 0.66322,
+          "distance": 0.04505292361509004,
+          "alert_price": 0.6920797824267783,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 20,
+          "value": 0.7028099999999998,
+          "distance": -0.013815967331141812,
+          "alert_price": 0.7333925271966526,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 30,
+          "value": 0.8229400000000002,
+          "distance": -0.15777577952220107,
+          "alert_price": 0.8587499414225944,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 0.7204116666666663,
+          "distance": -0.03791119429400269,
+          "alert_price": 0.7517601241283121,
+          "touched": true,
+          "near_close": true
+        }
+      ],
+      "next_level": {
+        "ma": 10,
+        "value": 0.66322,
+        "distance": 0.04505292361509004,
+        "alert_price": 0.6920797824267783,
+        "touched": true,
+        "near_close": true
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          2
+        ]
+      ],
+      "extended": false,
+      "composite": 2.09,
+      "grade": "C",
+      "notes": "Futu显示NANO；这里用美股OTC NNOMF。"
+    },
+    {
+      "symbol": "NDX",
+      "source_symbol": "NDX",
+      "name": "Nasdaq 100 Index",
+      "assetclass": "index",
+      "data_provider": "nasdaq",
+      "history_daily_bars": 1777,
+      "data_warning": "fallback_after:futu: Futu returned no data for US.NDX: Unknown stock. NDX",
+      "futu_code": "US.NDX",
+      "context_only": true,
+      "themes": [
+        "market regime",
+        "index"
+      ],
+      "role": "market_filter",
+      "risk": "low",
+      "narrative_score": 5.0,
+      "quality_score": 5.0,
+      "latest_date": "2026-05-08",
+      "close": 29234.99,
+      "weekly_low": 27504.09,
+      "weekly_high": 29234.99,
+      "atr_pct": 0.0390184599247096,
+      "buffer_pct": 0.025,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [],
+      "levels": [
+        {
+          "ma": 10,
+          "value": 25613.798,
+          "distance": 0.14137661271475643,
+          "alert_price": 26254.142949999998,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 20,
+          "value": 25461.154000000002,
+          "distance": 0.1482193619346554,
+          "alert_price": 26097.68285,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 25374.493000000002,
+          "distance": 0.15214085262708496,
+          "alert_price": 26008.855325,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 23671.96816666667,
+          "distance": 0.23500461787401433,
+          "alert_price": 24263.767370833335,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 120,
+          "value": 21638.22208333333,
+          "distance": 0.3510809662369637,
+          "alert_price": 22179.17763541666,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 10,
+        "value": 25613.798,
+        "distance": 0.14137661271475643,
+        "alert_price": 26254.142949999998,
+        "touched": false,
+        "near_close": false
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          2
+        ],
+        [
+          10,
+          20,
+          0
+        ]
+      ],
+      "extended": false,
+      "composite": 3.875,
+      "grade": "CONTEXT",
+      "notes": "市场温度计；个股A级信号最好发生在NDX强趋势或回踩企稳时。"
+    }
+  ],
+  "errors": []
+}
