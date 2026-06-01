@@ -1,0 +1,398 @@
+{
+  "results": [
+    {
+      "symbol": "GOOG",
+      "source_symbol": "GOOG",
+      "name": "Alphabet Class C",
+      "assetclass": "stocks",
+      "data_provider": "futu",
+      "history_daily_bars": 1778,
+      "data_warning": "",
+      "futu_code": "US.GOOG",
+      "context_only": false,
+      "themes": [
+        "AI",
+        "cloud",
+        "mega-cap"
+      ],
+      "role": "core",
+      "risk": "low",
+      "narrative_score": 5.0,
+      "quality_score": 5.0,
+      "latest_date": "2026-05-08",
+      "close": 397.05,
+      "weekly_low": 376.77,
+      "weekly_high": 398.37,
+      "atr_pct": 0.06076858115746488,
+      "buffer_pct": 0.025,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [],
+      "levels": [
+        {
+          "ma": 20,
+          "value": 322.7089332111001,
+          "distance": 0.23036569223285092,
+          "alert_price": 330.7766565413776,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 312.14741120626667,
+          "distance": 0.27199517197863227,
+          "alert_price": 319.9510964864233,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 250.76483297846661,
+          "distance": 0.5833559884933907,
+          "alert_price": 257.03395380292824,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 120,
+          "value": 210.05798698066664,
+          "distance": 0.8901923497750351,
+          "alert_price": 215.30943665518328,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 20,
+        "value": 322.7089332111001,
+        "distance": 0.23036569223285092,
+        "alert_price": 330.7766565413776,
+        "touched": false,
+        "near_close": false
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          2
+        ],
+        [
+          10,
+          20,
+          0
+        ]
+      ],
+      "extended": true,
+      "composite": 3.425,
+      "grade": "WAIT",
+      "notes": "核心质量票；交叉后回踩MA20/30上沿比追涨更合适。"
+    },
+    {
+      "symbol": "RKLB",
+      "source_symbol": "RKLB",
+      "name": "Rocket Lab",
+      "assetclass": "stocks",
+      "data_provider": "futu",
+      "history_daily_bars": 1369,
+      "data_warning": "",
+      "futu_code": "US.RKLB",
+      "context_only": false,
+      "themes": [
+        "space",
+        "defense",
+        "launch"
+      ],
+      "role": "growth",
+      "risk": "medium_high",
+      "narrative_score": 5.0,
+      "quality_score": 3.0,
+      "latest_date": "2026-05-08",
+      "close": 105.47,
+      "weekly_low": 76.25,
+      "weekly_high": 105.62,
+      "atr_pct": 0.12816467783662247,
+      "buffer_pct": 0.04485763724281786,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [],
+      "levels": [
+        {
+          "ma": 10,
+          "value": 75.122,
+          "distance": 0.40398285455658794,
+          "alert_price": 78.49179542495496,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 20,
+          "value": 76.385,
+          "distance": 0.38076847548602466,
+          "alert_price": 79.81145062079264,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 69.4065,
+          "distance": 0.5195983085157732,
+          "alert_price": 72.51991159929362,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 52.546916666666675,
+          "distance": 1.0071586820032254,
+          "alert_price": 54.904047192728584,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 20,
+        "value": 76.385,
+        "distance": 0.38076847548602466,
+        "alert_price": 79.81145062079264,
+        "touched": false,
+        "near_close": false
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          3
+        ]
+      ],
+      "extended": true,
+      "composite": 2.4749999999999996,
+      "grade": "WAIT",
+      "notes": "强叙事高波动；只在周线MA20/30/60回踩企稳时升级。"
+    },
+    {
+      "symbol": "AGRO",
+      "source_symbol": "AGRO",
+      "name": "Adecoagro",
+      "assetclass": "stocks",
+      "data_provider": "futu",
+      "history_daily_bars": 1778,
+      "data_warning": "",
+      "futu_code": "US.AGRO",
+      "context_only": false,
+      "themes": [
+        "agriculture",
+        "energy",
+        "value"
+      ],
+      "role": "cyclical",
+      "risk": "medium",
+      "narrative_score": 3.0,
+      "quality_score": 4.0,
+      "latest_date": "2026-05-08",
+      "close": 13.13,
+      "weekly_low": 12.92,
+      "weekly_high": 15.25,
+      "atr_pct": 0.13023397069415732,
+      "buffer_pct": 0.04558188974295506,
+      "trend": "strong_uptrend",
+      "trend_score": 5.0,
+      "signals": [
+        {
+          "kind": "cross_upper_add",
+          "support": 12.999147328800001,
+          "distance": 0.010066250338596558,
+          "spread": 0.2529980828419662,
+          "crosses": [
+            [
+              30,
+              60,
+              2
+            ]
+          ],
+          "reason": "recent bullish MA cross; price is near the upper MA support band"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 5,
+          "support": 13.238595920200002,
+          "distance": -0.008202978688570794,
+          "reason": "price is -0.8% from MA5"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 10,
+          "support": 12.999147328800001,
+          "distance": 0.010066250338596558,
+          "reason": "price is 1.0% from MA10"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 5,
+          "value": 13.238595920200002,
+          "distance": -0.008202978688570794,
+          "alert_price": 13.842036139786092,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 10,
+          "value": 12.999147328800001,
+          "distance": 0.010066250338596558,
+          "alert_price": 13.59167302909379,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 20,
+          "value": 10.7308333024,
+          "distance": 0.22357692361723813,
+          "alert_price": 11.219964962840027,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 9.710387976033335,
+          "distance": 0.35216018478425076,
+          "alert_price": 10.153005810118202,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 9.326415556266662,
+          "distance": 0.40782918376155897,
+          "alert_price": 9.751531201849389,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 10,
+        "value": 12.999147328800001,
+        "distance": 0.010066250338596558,
+        "alert_price": 13.59167302909379,
+        "touched": true,
+        "near_close": true
+      },
+      "recent_crosses": [
+        [
+          30,
+          60,
+          2
+        ]
+      ],
+      "extended": true,
+      "composite": 3.95,
+      "grade": "B+",
+      "notes": "你圈出的典型交叉上沿加仓模型。"
+    },
+    {
+      "symbol": "BABA",
+      "source_symbol": "BABA",
+      "name": "Alibaba",
+      "assetclass": "stocks",
+      "data_provider": "futu",
+      "history_daily_bars": 1778,
+      "data_warning": "",
+      "futu_code": "US.BABA",
+      "context_only": false,
+      "themes": [
+        "China internet",
+        "AI",
+        "cloud"
+      ],
+      "role": "turnaround",
+      "risk": "medium_high",
+      "narrative_score": 4.0,
+      "quality_score": 4.0,
+      "latest_date": "2026-05-08",
+      "close": 140.06,
+      "weekly_low": 132.17,
+      "weekly_high": 143.95,
+      "atr_pct": 0.08597075743048896,
+      "buffer_pct": 0.030089765100671132,
+      "trend": "base_or_mixed",
+      "trend_score": 2.3,
+      "signals": [
+        {
+          "kind": "pure_pullback",
+          "ma": 20,
+          "support": 144.64000000000001,
+          "distance": -0.03166482300884964,
+          "reason": "price is -3.2% from MA20"
+        },
+        {
+          "kind": "pure_pullback",
+          "ma": 60,
+          "support": 138.48680141141665,
+          "distance": 0.011359917136866302,
+          "reason": "price is 1.1% from MA60"
+        }
+      ],
+      "levels": [
+        {
+          "ma": 20,
+          "value": 144.64000000000001,
+          "distance": -0.03166482300884964,
+          "alert_price": 148.99218362416107,
+          "touched": true,
+          "near_close": false
+        },
+        {
+          "ma": 30,
+          "value": 149.97133333333335,
+          "distance": -0.06608818574216413,
+          "alert_price": 154.4839355251678,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 60,
+          "value": 138.48680141141665,
+          "distance": 0.011359917136866302,
+          "alert_price": 142.65383673542945,
+          "touched": true,
+          "near_close": true
+        },
+        {
+          "ma": 120,
+          "value": 111.97880049914164,
+          "distance": 0.2507724620703864,
+          "alert_price": 115.34821630241572,
+          "touched": false,
+          "near_close": false
+        },
+        {
+          "ma": 250,
+          "value": 104.85908284695601,
+          "distance": 0.3356973587535612,
+          "alert_price": 108.01426801849273,
+          "touched": false,
+          "near_close": false
+        }
+      ],
+      "next_level": {
+        "ma": 60,
+        "value": 138.48680141141665,
+        "distance": 0.011359917136866302,
+        "alert_price": 142.65383673542945,
+        "touched": true,
+        "near_close": true
+      },
+      "recent_crosses": [
+        [
+          5,
+          10,
+          1
+        ]
+      ],
+      "extended": false,
+      "composite": 3.19,
+      "grade": "B",
+      "notes": "基本面质量强但政策/地缘折价；大级别MA60/120更重要。"
+    }
+  ],
+  "errors": []
+}
